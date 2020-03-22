@@ -1,0 +1,4 @@
+C:\Users\mrt_b\Desktop\Kod S Matris Ekrani\Kod S Matris Ekrani\bin\Debug\Kod S Matris Ekrani.exe
+C:\Users\mrt_b\Desktop\Kod S Matris Ekrani\Kod S Matris Ekrani\bin\Debug\Kod S Matris Ekrani.pdb
+C:\Users\mrt_b\Desktop\Kod S Matris Ekrani\Kod S Matris Ekrani\obj\x86\Debug\Kod S Matris Ekrani.exe
+C:\Users\mrt_b\Desktop\Kod S Matris Ekrani\Kod S Matris Ekrani\obj\x86\Debug\Kod S Matris Ekrani.pdb
